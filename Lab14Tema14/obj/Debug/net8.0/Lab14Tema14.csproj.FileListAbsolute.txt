@@ -1,0 +1,14 @@
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.exe
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.deps.json
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.runtimeconfig.json
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.dll
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.pdb
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.dll
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\refint\Lab14Tema14.dll
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.pdb
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\Lab14Tema14.genruntimeconfig.cache
+C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\obj\Debug\net8.0\ref\Lab14Tema14.dll

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab14Tema14</id>
+    <version>1.0.0</version>
+    <authors>Lab14Tema14</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.runtimeconfig.json" target="lib\net8.0\Lab14Tema14.runtimeconfig.json" />
+    <file src="C:\Users\Ionut\source\repos\Lab14Tema14\Lab14Tema14\bin\Debug\net8.0\Lab14Tema14.dll" target="lib\net8.0\Lab14Tema14.dll" />
+  </files>
+</package>
